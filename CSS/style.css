@@ -1,0 +1,71 @@
+h1 {
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+  margin:0 auto;
+}
+
+ul {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+
+}
+
+h4 {
+   font-family: 'Oswald', sans-serif;
+   font-size: 15px;  
+   text-align: center;
+   margin-bottom: 10px;   
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+#main {
+  background: ;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0; 
+}
+
+#tribute-info {
+  padding: 10px;
+  text-align: center;
+  margin:0 auto;
+  width: 600px;
+}
+
+ul {
+  max-width: 600px;
+  margin: 0 auto 40px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+li {
+  margin: 16px 0;
+}
+
+.footer{
+  background: white;
+  padding: 60px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
